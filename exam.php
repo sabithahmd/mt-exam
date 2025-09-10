@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Exam Management
+ * Plugin Name: Exam Management2
  * Plugin URI: https://example.com
  * Description: A WordPress plugin for screening senior developer applicants with custom post types for students, exams, results.
  * Version: 1.0.0
